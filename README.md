@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/LeontevTest/hw-5.1-patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/LeontevTest/hw-5.1-patterns/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/LeontevTest/hw-5.1-patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/LeontevTest/hw-5.1-patterns/actions/workflows/gradle.yml)![Screen-541.png](..%2F..%2FDesktop%2FScreen-541.png)
